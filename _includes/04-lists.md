@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* :umbrella:
+* :joy:
+* :yum:
+  * :girl:
+  * :love_letter:
+  * :sunny:
+  
